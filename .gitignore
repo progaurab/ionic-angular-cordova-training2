@@ -105,3 +105,8 @@ dist
 
 # Macbook File
 .DS_Store
+
+# cordova
+/plugins*
+/platform*
+www
