@@ -105,3 +105,10 @@ dist
 
 # Macbook File
 .DS_Store
+
+# ionic cordova platform
+platform*
+plugins*
+
+# browser file
+*www
